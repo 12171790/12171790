@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/JavaScript-yellow-css_HTML-blue
+![Static Badge](https://img.shields.io/badge/:JavaScript-yellow-css_HTML-blu)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12171790)](https://github.com/anuraghazra/github-readme-stats)
 
