@@ -2,8 +2,8 @@
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
 ![Static Badge](https://img.shields.io/badge/HTML_CSS-blue)
-![Static Badge](https://img.shields.io/badge/C++(-ing)-blue)
-![Static Badge](https://img.shields.io/badge/Java(-ing)-orange)
+![Static Badge](https://img.shields.io/badge/C++(ing)-blue)
+![Static Badge](https://img.shields.io/badge/Java(ing)-orange)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12171790)](https://github.com/anuraghazra/github-readme-stats)
 
